@@ -1,0 +1,31 @@
+.card{
+    background-color: aqua;
+    border: 1px solid #000;
+    border-radius: 4px;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    display: block;
+    margin: auto;
+
+}
+.search{
+    padding-top: 50px;
+}
+
+html{
+    background-color: #000;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.weather{
+    border: 2px solid #fff;
+    margin-top: 20px;
+    background-color: beige;
+
+}
+.temp{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
